@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cloudstudentportal/static/css/main.b392d825.chunk.css",
-    "main.js": "/cloudstudentportal/static/js/main.95c39b34.chunk.js",
-    "main.js.map": "/cloudstudentportal/static/js/main.95c39b34.chunk.js.map",
+    "main.js": "/cloudstudentportal/static/js/main.62cd9fdf.chunk.js",
+    "main.js.map": "/cloudstudentportal/static/js/main.62cd9fdf.chunk.js.map",
     "runtime-main.js": "/cloudstudentportal/static/js/runtime-main.bbd52cb6.js",
     "runtime-main.js.map": "/cloudstudentportal/static/js/runtime-main.bbd52cb6.js.map",
     "static/css/2.818011ed.chunk.css": "/cloudstudentportal/static/css/2.818011ed.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.a738c74a.chunk.js",
     "static/css/main.b392d825.chunk.css",
-    "static/js/main.95c39b34.chunk.js"
+    "static/js/main.62cd9fdf.chunk.js"
   ]
 }
