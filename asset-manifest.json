@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/cloudstudentportal/static/css/main.b392d825.chunk.css",
+    "main.js": "/cloudstudentportal/static/js/main.95c39b34.chunk.js",
+    "main.js.map": "/cloudstudentportal/static/js/main.95c39b34.chunk.js.map",
+    "runtime-main.js": "/cloudstudentportal/static/js/runtime-main.bbd52cb6.js",
+    "runtime-main.js.map": "/cloudstudentportal/static/js/runtime-main.bbd52cb6.js.map",
+    "static/css/2.818011ed.chunk.css": "/cloudstudentportal/static/css/2.818011ed.chunk.css",
+    "static/js/2.a738c74a.chunk.js": "/cloudstudentportal/static/js/2.a738c74a.chunk.js",
+    "static/js/2.a738c74a.chunk.js.map": "/cloudstudentportal/static/js/2.a738c74a.chunk.js.map",
+    "static/js/3.f1f7d038.chunk.js": "/cloudstudentportal/static/js/3.f1f7d038.chunk.js",
+    "static/js/3.f1f7d038.chunk.js.map": "/cloudstudentportal/static/js/3.f1f7d038.chunk.js.map",
+    "index.html": "/cloudstudentportal/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/cloudstudentportal/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.b392d825.chunk.css.map": "/cloudstudentportal/static/css/main.b392d825.chunk.css.map",
+    "static/js/2.a738c74a.chunk.js.LICENSE.txt": "/cloudstudentportal/static/js/2.a738c74a.chunk.js.LICENSE.txt",
+    "static/media/android.ee1d9508.jpeg": "/cloudstudentportal/static/media/android.ee1d9508.jpeg",
+    "static/media/app.8714f365.jpeg": "/cloudstudentportal/static/media/app.8714f365.jpeg",
+    "static/media/digital.dad8270c.jpeg": "/cloudstudentportal/static/media/digital.dad8270c.jpeg",
+    "static/media/hero-img.53f1b546.png": "/cloudstudentportal/static/media/hero-img.53f1b546.png",
+    "static/media/marketing.f629aa39.jpg": "/cloudstudentportal/static/media/marketing.f629aa39.jpg",
+    "static/media/s1.8e51e67d.jpg": "/cloudstudentportal/static/media/s1.8e51e67d.jpg",
+    "static/media/software.1cb4dc77.jpeg": "/cloudstudentportal/static/media/software.1cb4dc77.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd52cb6.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.a738c74a.chunk.js",
+    "static/css/main.b392d825.chunk.css",
+    "static/js/main.95c39b34.chunk.js"
+  ]
+}
