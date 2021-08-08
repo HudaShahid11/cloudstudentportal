@@ -1,7 +1,7 @@
 import React from 'react';
 import Dnavbar from './Dnavbar';
 import Dcdata from "./Dcdata";
-import Card from "../components/Card";
+import Dcard from "./Dcard";
 
 const Dashboard = () => {
     return(
@@ -15,7 +15,7 @@ const Dashboard = () => {
                 <div className="col-10 mx-auto">
                     <div className="row gy-4">
                     {Dcdata.map((val, ind) => {
-                        return <Card key={ind} imgsrc={val.imgsrc} title={val.title} desc={val.desc} btntext={val.btntext} btnlink={"/cmaterial"}/>;
+                        return <Dcard key={ind} imgsrc={val.imgsrc} title={val.title} desc={val.desc} btntext={val.btntext} />;
                     })}
                     </div>
                 </div>

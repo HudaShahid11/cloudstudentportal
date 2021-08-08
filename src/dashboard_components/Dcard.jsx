@@ -1,6 +1,7 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
-const Card = (props) => {
+const Dcard = (props) => {
   return (
     <>
       <div className="col-md-4 col-12 mx-auto">
@@ -11,9 +12,12 @@ const Card = (props) => {
             <p className="card-text">
               {props.desc}
             </p>
-            <a href="http://kewo.org/courses" className="btn btn-outline-primary">
+
+            <NavLink to="/cmaterial">
+              <button className="btn btn-outline-primary" type="submit">
               {props.btntext}
-            </a>
+              </button>
+            </NavLink>
           </div>
         </div>
       </div>
@@ -21,4 +25,4 @@ const Card = (props) => {
   );
 };
 
-export default Card;
+export default Dcard;
